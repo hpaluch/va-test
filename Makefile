@@ -14,6 +14,6 @@ run: all
 
 .PHONY: clean
 clean:
-	rm -f va-test va-test.o
+	rm -f va-test va-test.o core
 
 
